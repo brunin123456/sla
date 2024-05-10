@@ -9,7 +9,7 @@ function setup() {
 
 function palavraAleatoria() {
   
-  let palavras = ["ultra-t", "ult", "u"];
+  let palavras = ["ultra-T", "ult", "u"];
   
   return random(palavras);
 }
